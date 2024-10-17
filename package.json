@@ -1,5 +1,6 @@
 {
-  "name": "crud-web",
+  "homepage":"https://marcho2.github.io/pruebades",
+  "name": "pruebades",
   "private": true,
   "version": "0.0.0",
   "type": "module",
